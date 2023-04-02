@@ -1,6 +1,6 @@
 # Data-Analytics-Project
 
-Health insurance or medical insurance is a type of insurance that covers the whole or a part of the risk of a person incurring medical expenses. By estimating the overall risk of health risk and health system expenses over the risk pool, an insurer can develop a routine finance structure, such as a monthly premium or payroll tax, to provide the money to pay for the health care benefits specified in the insurance agreement.— Wikipedia
+Health insurance or medical insurance is a type of insurance that covers the whole or a part of the risk of a person incurring medical expenses. By estimating the overall risk of health risk and health system expenses over the risk pool, an insurer can develop a routine finance structure, such as a monthly premium or payroll tax, to provide the money to pay for the health care benefits specified in the insurance agreement.
 
 TOOLS : POWER BI , MYSQL DB CONNECTIVITY
 
